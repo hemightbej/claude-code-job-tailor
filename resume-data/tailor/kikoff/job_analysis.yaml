@@ -1,0 +1,151 @@
+version: '2.0.0'
+analysis_date: '2026-04-03'
+source: 'Greenhouse job board - Kikoff'
+
+job_analysis:
+  # Core info
+  company: 'Kikoff'
+  position: 'Product Manager'
+  job_focus:
+    - primary_area: 'engineer'
+      specialties: ['fintech', 'data', 'backend']
+      weight: 0.6
+    - primary_area: 'senior_engineer'
+      specialties: ['architecture', 'backend']
+      weight: 0.4
+  location: 'San Francisco, CA'
+  employment_type: 'Full-time'
+  experience_level: 'Mid-level'
+
+  # Prioritized requirements
+  requirements:
+    must_have_skills:
+      - skill: 'Consumer product experience'
+        priority: 10
+      - skill: 'Data analysis'
+        priority: 9
+      - skill: 'User research'
+        priority: 9
+      - skill: 'Roadmap development'
+        priority: 8
+      - skill: 'Cross-functional collaboration'
+        priority: 8
+      - skill: 'Written communication'
+        priority: 7
+      - skill: 'A/B testing and experimentation'
+        priority: 7
+      - skill: 'User segmentation'
+        priority: 6
+    nice_to_have_skills:
+      - skill: 'SQL proficiency'
+        priority: 8
+      - skill: 'Fintech domain knowledge'
+        priority: 7
+      - skill: 'Code literacy'
+        priority: 6
+      - skill: 'Startup experience'
+        priority: 6
+      - skill: 'Consulting or investment banking background'
+        priority: 5
+    soft_skills:
+      - 'Strategic thinking'
+      - 'Bias to action'
+      - 'Consumer empathy'
+      - 'Adaptability'
+      - 'First-principles thinking'
+      - 'Extreme ownership'
+    experience_years: 2
+    education: "Bachelor's degree or equivalent experience"
+
+  responsibilities:
+    primary:
+      - 'Analyze user data and conduct interviews to identify engagement opportunities'
+      - 'Develop and test content experiences across product touchpoints and communications'
+      - 'Shape engineering and design roadmaps using data and user insights'
+      - 'Create user segments and drive engagement loops across product and alerts'
+      - 'Champion products cross-functionally with marketing, legal, ops, and leadership'
+    secondary:
+      - 'Move flexibly between strategy and hands-on execution'
+      - 'Drive discovery processes to identify empowering user features'
+      - 'Contribute to AI-powered financial tools product development'
+
+  # Merged context section
+  role_context:
+    department: 'Product'
+    team_size: 'Millions of consumers served, profitable fintech unicorn'
+    key_points:
+      - 'Kikoff is a profitable fintech unicorn founded in 2019, backed by top-tier VCs'
+      - 'Focus on radically affordable financial tools for credit building and debt reduction'
+      - 'Hybrid role requiring 3 days onsite weekly in San Francisco'
+      - 'AI-powered solutions for consumers navigating financial challenges'
+      - 'Values extreme ownership, clear communication, and craftsmanship'
+
+  # Candidate alignment analysis
+  candidate_alignment:
+    strong_matches:
+      - '15+ years of product management experience far exceeds the 2-year minimum'
+      - 'Consumer-focused product experience across fintech and payments platforms'
+      - 'Deep data analysis skills including SQL, A/B testing, and funnel analytics'
+      - 'Proven roadmap development and cross-functional collaboration experience'
+      - 'Fintech and payments domain expertise (ACH, PCI, payment integrations)'
+      - 'User research, segmentation, and engagement loop experience'
+      - 'Go-to-market strategy and retention strategy expertise'
+    gaps_to_address:
+      - 'Role targets early-career professionals; seniority may need calibration in positioning'
+      - 'Credit-building consumer fintech is a niche vs broader fintech/payments experience'
+    transferable_skills:
+      - 'Payment platform expertise -> credit-building fintech product understanding'
+      - 'Growth and retention strategies -> user engagement loop optimization at Kikoff'
+      - 'A/B testing frameworks -> content experimentation for user engagement'
+      - 'Data-driven decision making -> user segmentation and engagement analysis'
+    emphasis_strategy: 'Lead with consumer fintech and data-driven engagement expertise, calibrate experience narrative to match startup pace expectations'
+
+  # Section priorities for resume tailoring
+  section_priorities:
+    technical_expertise:
+      - 'data_analytics'
+      - 'product_management'
+      - 'marketing_growth'
+      - 'user_experience'
+    experience_focus: 'Highlight consumer-facing product launches, engagement metrics, A/B testing wins, and fintech/payments domain experience with measurable outcomes'
+    project_relevance: 'Include: fintech/payments products, consumer engagement projects, A/B testing wins, retention programs. Skip: B2B-only, pure enterprise, non-consumer work'
+
+  # Optimization actions
+  optimization_actions:
+    LEAD_WITH:
+      - 'Consumer product management'
+      - 'Fintech and payments expertise'
+      - 'Data-driven decision making'
+    EMPHASIZE:
+      - 'user_engagement_loops'
+      - 'a_b_testing_results'
+      - 'consumer_empathy'
+      - 'startup_pace_execution'
+    QUANTIFY:
+      - 'user_engagement_improvements'
+      - 'retention_rate_increases'
+      - 'conversion_lifts'
+      - 'product_adoption_metrics'
+    DOWNPLAY:
+      - 'enterprise_b2b_experience'
+      - 'seniority_framing_over_junior_roles'
+      - 'non_consumer_technical_work'
+
+  # Simplified ATS analysis
+  ats_analysis:
+    title_variations:
+      - 'Product Manager'
+      - 'Consumer Product Manager'
+      - 'FinTech Product Manager'
+    critical_phrases:
+      - 'digital consumer products'
+      - 'data analysis and user research'
+      - 'engagement loops'
+      - 'cross-functional collaboration'
+      - 'fintech and financial tools'
+
+  # Basic metadata
+  application_info:
+    posting_url: 'https://job-boards.greenhouse.io/kikoff/jobs/4147830009'
+    posting_date: '2026-04-03'
+    deadline: 'Not specified'

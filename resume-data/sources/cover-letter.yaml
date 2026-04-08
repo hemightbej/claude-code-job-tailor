@@ -1,0 +1,72 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'San Francisco, Thu 5. March 2026'
+
+cover_letter:
+  templates:
+    ecommerce_platform_focused:
+      letter_title: 'Cover Letter — Lead Product Manager'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to express my strong interest in the [POSITION] role at [COMPANY]. With 15+ years owning end-to-end product development for e-commerce and platform products, I have a proven track record of translating complex business requirements into scalable, high-converting digital experiences."
+        - "At SPARC, I led the full-lifecycle delivery of a 0→1 e-commerce platform that normalized data across 150+ brands, grew conversions ~50% year-over-year, and maintained zero downtime during a 430% COVID traffic surge. I drove this work by building structured feedback loops with customers and cross-functional partners, continuously iterating on checkout flows, data accuracy, and retention KPIs—ultimately increasing online customer retention ~60% year-over-year."
+        - "I am drawn to [COMPANY]'s approach to [mention specific platform or product area]. I am confident my ability to align engineering, operations, and business stakeholders around a clear product vision would make an immediate impact on your team."
+      signature: |
+        Sincerely,
+        Justin Morgan
+
+    fintech_payments_focused:
+      letter_title: 'Cover Letter — Product Manager, Fintech & Payments'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to apply for the [POSITION] position at [COMPANY]. With a deep background in fintech product development—from building a pioneering ODFI bank partnership to shipping a fully compliant B2B/B2C payments ecosystem—I am excited by the opportunity to bring that experience to your team."
+        - "As Lead Product Manager at SPARC, I led the 0→1 delivery of SPARC Pay: a dual-track payments platform that cut transaction fees 30%, achieved <5-second customer checkout, and grew adoption 37% within six months. I coordinated across Engineering, Finance, Compliance, and Marketing to navigate complex regulatory requirements, integrate reconciliation logic, and orchestrate a phased go-to-market that positioned the platform for acquisition."
+        - "I am particularly excited about [COMPANY]'s work in [mention specific fintech product or market]. I would welcome the chance to discuss how my experience building compliant, adoption-driving payments products aligns with your roadmap."
+      signature: |
+        Sincerely,
+        Justin Morgan
+
+    growth_marketing_focused:
+      letter_title: 'Cover Letter — Product & Marketing Leader'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to express my interest in the [POSITION] role at [COMPANY]. I bring 15+ years of experience at the intersection of product management, data-driven marketing, and growth strategy—consistently delivering measurable lifts in conversion, retention, and revenue."
+        - "In my most recent role as Director of Creative Marketing at SPARC, I built repeatable A/B testing frameworks that drove 28% conversion growth year-over-year, designed geo-targeted DSP campaigns that raised ROI 33% month-over-month, and led a loyalty program redesign that boosted adoption ~30% quarter-over-quarter. I approach growth systematically—using funnel analytics, behavioral data, and hypothesis-driven testing to identify opportunities and codify what works into scalable playbooks."
+        - "I am excited by [COMPANY]'s focus on [mention growth area or customer segment]. I would love to bring this data-driven, cross-functional approach to your team and help drive sustainable, measurable growth."
+      signature: |
+        Sincerely,
+        Justin Morgan
+
+    design_ux_focused:
+      letter_title: 'Cover Letter — Product Manager, UX & Design'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to apply for the [POSITION] role at [COMPANY]. I combine 15+ years of product management experience with a strong UX and visual design background—giving me the ability to bridge business requirements, engineering constraints, and user needs into intuitive, high-converting digital experiences."
+        - "As Lead Product Manager at SPARC, I redesigned checkout flows using session analysis and UX experiments that cut cart abandonment 28% quarter-over-quarter, optimized the mobile user journey to raise logged-in shopping frequency 10%, and designed checkout prototypes for user testing that reduced abandonment 18% within one month. As SPARC's founding Director of Technology and Design, I launched digital in-store retail experiences (POS, kiosks, menu screens) and managed external creative partners on brand identity and store design projects."
+        - "I am drawn to [COMPANY]'s commitment to [mention specific design or UX area]. I am confident that my rare combination of design fluency and product rigor would add meaningful value to your team."
+      signature: |
+        Sincerely,
+        Justin Morgan
+
+    project_manager_focused:
+      letter_title: 'Cover Letter — Marketing Project Manager & Creative Operations'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to express my interest in the [POSITION] role at [COMPANY]. With 15+ years managing cross-functional projects and driving marketing and commerce platforms from concept to scale, I bring a rare combination of structured program management discipline and hands-on creative operations experience."
+        - "At SPARC, I owned the end-to-end delivery of cross-functional initiatives across marketing, product, and technology teams—including a national co-branded product launch that secured a top-5 sales position within 3 months, a loyalty program restructuring that boosted membership ~30% quarter-over-quarter, and a go-to-market production calendar overhaul that eliminated 90% of pricing revisions and doubled design production windows. I consistently used data, clear DACI structures, and repeatable intake and prioritization systems to keep complex, multi-stakeholder projects on track and on time."
+        - "I am drawn to [COMPANY]'s work in [mention specific project area or team]. I am confident that my ability to build operational clarity across fast-moving, cross-functional teams would make an immediate impact."
+      signature: |
+        Sincerely,
+        Justin Morgan
+
+  common_elements:
+    personal_info:
+      name: 'Justin Morgan'
+      address: 'San Francisco, CA'
+      email: 'justin@pointblank.design'
+      phone: '415-846-0055'
+      linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  personalization_variables:
+    - '[COMPANY]'
+    - '[POSITION]'

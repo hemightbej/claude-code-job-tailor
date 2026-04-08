@@ -1,0 +1,120 @@
+version: '2.0.0'
+analysis_date: '2026-03-16'
+source: 'https://www.builtinsf.com/job/product-manager/8761620'
+
+job_analysis:
+  company: 'Clerkie'
+  position: 'Product Manager'
+  job_focus:
+    - primary_area: 'senior_engineer'
+      specialties: ['backend', 'architecture', 'data']
+      weight: 0.65
+    - primary_area: 'tech_lead'
+      specialties: ['architecture', 'backend']
+      weight: 0.35
+  location: 'Remote (US-based)'
+  employment_type: 'Full-time'
+  experience_level: 'Mid-level'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Product Discovery & Roadmap Ownership'
+        priority: 10
+      - skill: 'Cross-functional Stakeholder Alignment'
+        priority: 9
+      - skill: 'API & Data Flow Fluency'
+        priority: 9
+      - skill: 'Systems Thinking'
+        priority: 8
+      - skill: 'Enterprise Partner Collaboration'
+        priority: 8
+      - skill: 'Written & Verbal Communication'
+        priority: 7
+      - skill: 'Startup / Fast-paced Environment'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Fintech or Regulated Industry'
+        priority: 8
+      - skill: 'SaaS / Infrastructure / Developer Tools'
+        priority: 7
+      - skill: 'Engineering or Analytics Background'
+        priority: 6
+      - skill: 'Early-stage Startup Experience'
+        priority: 6
+      - skill: 'Financial Wellness Technology'
+        priority: 5
+    soft_skills:
+      - 'Ownership Mentality'
+      - 'Independent Remote Worker'
+      - 'Outcome-focused'
+      - 'Strong Communicator'
+      - 'Collaborative'
+    experience_years: 5
+    education: 'Not specified'
+
+  responsibilities:
+    primary:
+      - 'Own and lead product initiatives from discovery through release'
+      - 'Translate enterprise partner needs into scalable product requirements'
+      - 'Drive cross-functional alignment across technical and non-technical stakeholders'
+      - 'Define priorities and shape roadmap decisions'
+      - 'Lead product discovery and experimentation'
+    secondary:
+      - 'Contribute to product systems, rituals, and documentation'
+      - 'Work directly with enterprise partners in the debt ecosystem'
+      - 'Build strong product culture within the team'
+
+  role_context:
+    department: 'Product'
+    team_size: '40+ employees across 4 US time zones, $41M raised'
+    key_points:
+      - 'Fintech startup democratizing financial wellness via AI for underserved Americans'
+      - 'B2B software for creditors managing loan losses paired with consumer guidance'
+      - 'Series A company ($33M in 2023), investors include Citi Ventures and Wellington'
+      - 'Remote-first culture, build-mode startup environment'
+      - 'PM works directly with enterprise debt ecosystem partners'
+
+  candidate_alignment:
+    strong_matches:
+      - '15+ years product management experience shipping B2B/B2C platforms'
+      - 'Fintech payments domain expertise (SPARC Pay, ACH/NACHA, compliance)'
+      - 'Enterprise partner collaboration and regulatory navigation'
+      - 'API integration and data flow ownership across complex systems'
+      - 'Cross-functional alignment with Engineering, Finance, and Compliance'
+      - 'Systems thinking for complex B2B platform workflows'
+    gaps_to_address:
+      - 'No direct experience with debt resolution or loan-loss management'
+      - 'Consumer financial wellness product context is new'
+    transferable_skills:
+      - 'SPARC Pay compliance work (PCI, NACHA) → regulated fintech product expertise'
+      - 'B2B POS/Accounting platform → B2B creditor software for loan management'
+      - 'ODFI bank partnership → enterprise debt ecosystem partner management'
+    emphasis_strategy: 'Lead with fintech platform delivery and compliance expertise, bridge to Clerkie mission via enterprise B2B focus'
+
+  section_priorities:
+    technical_expertise: ['product_management', 'payments_compliance', 'data_analytics', 'technical_knowledge']
+    experience_focus: 'Highlight fintech payments delivery, B2B platform ownership, enterprise partner work, and API/data integrations'
+    project_relevance: 'Include: SPARC Pay (fintech payments), Fully Booked (B2B data integration). Emphasize compliance, adoption metrics, cross-functional delivery.'
+
+  optimization_actions:
+    LEAD_WITH: ['Fintech Payments', 'B2B Platform Delivery', 'Enterprise Partner Collaboration']
+    EMPHASIZE: ['compliance_navigation', 'adoption_growth', 'cross_functional_alignment']
+    QUANTIFY: ['adoption_rates', 'cost_reduction', 'time_to_completion', 'transaction_fee_savings']
+    DOWNPLAY: ['creative_operations', 'marketing_campaigns', 'design_tools']
+
+  ats_analysis:
+    title_variations:
+      - 'Product Manager'
+      - 'Product Manager, Fintech'
+      - 'Product Manager | Fintech & Payments'
+    critical_phrases:
+      - 'product discovery'
+      - 'cross-functional alignment'
+      - 'enterprise partners'
+      - 'API and data flows'
+      - 'regulated industry'
+
+  application_info:
+    posting_url: 'https://www.builtinsf.com/job/product-manager/8761620'
+    posting_date: '2026-03-16'
+    deadline: 'Not specified'

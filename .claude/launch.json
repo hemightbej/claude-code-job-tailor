@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "tailor-server",
+      "runtimeExecutable": "bun",
+      "runtimeArgs": ["run", "tailor-server", "-C", "gap"],
+      "port": 3000
+    },
+    {
+      "name": "vite",
+      "runtimeExecutable": "bun",
+      "runtimeArgs": ["run", "dev:vite"],
+      "port": 3000
+    }
+  ]
+}

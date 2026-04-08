@@ -1,0 +1,153 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'San Francisco, Thu 5. March 2026'
+
+professional_experience:
+  - company: 'SPARC'
+    position: 'Director of Creative Marketing'
+    location: 'Bay Area, CA'
+    duration: 'April 2024 - March 2025'
+    company_description: 'Vertically integrated cannabis operator spanning technology, consumer brands, and multi-channel retail sales.'
+    linkedin: null
+    achievements:
+      ecommerce_platform_focused:
+        - 'Drove loyalty rewards program redesign via sales and behavioral data analysis, simplifying the reward structure and signup process, boosting adoption ~30% quarter-over-quarter.'
+        - 'Enhanced user engagement by collaborating with Engineering on advanced UTM filters, increasing add-to-cart rates 61% in 2 months.'
+        - 'Led delivery of a scalable payments platform synthesizing data between e-commerce, financial institutions, and POS systems, reducing transaction fees 20% and raising platform adoption 33% within 6 months.'
+        - 'Established cohesive brand strategies for two product lines, resulting in a 40% increase in market share within 12 months through targeted marketing initiatives.'
+      fintech_payments_focused:
+        - 'Led delivery of a scalable payments platform that synthesized data between e-commerce, financial institutions, and POS systems, reducing transaction fees 20% and raising platform adoption 33% within 6 months.'
+        - 'Spearheaded partnership with a leading national brand for their inaugural product launch, balancing creative vision with data-driven pricing strategies to secure a top-5 sales position within 3 months.'
+        - 'Revamped pricing strategy for a flagship product using AI predictive modeling to identify optimal price elasticity and value proposition, tripling sales.'
+        - 'Drove retail loyalty program restructuring and go-to-market strategy; analyzed sales, demographic, and engagement data, driving a ~30% adoption lift quarter-over-quarter.'
+      growth_marketing_focused:
+        - 'Established a repeatable A/B testing framework for campaign designs, converting learnings into standardized templates that delivered 28% conversion growth year-over-year.'
+        - 'Designed DSP campaigns leveraging first-party and geo-targeted data to deliver dynamic personalized experiences, raising ROI 33% month-over-month.'
+        - 'Directed new brand partnership and joint product launch; used competitor/conversion analysis to pinpoint underperformance and drive new pricing strategy, increasing sales 3x within 2 months.'
+        - 'Coordinated across Design and Sales teams to align workflows, define success metrics, and lead enablement for 75 stakeholders, increasing production velocity 27%.'
+        - 'Produced comprehensive playbook, launch communications, and KPI tracking dashboards for loyalty program restructuring, increasing membership ~30% quarter-over-quarter.'
+        - 'Developed intake workflow to improve efficiency of Sales team promotional requests with defined routing and prioritization, increasing on-time collateral delivery ~30% one month after launch.'
+        - 'Optimized and owned the go-to-market production calendar between Buying, Marketing, and Retail Ops by backwards-mapping tasks against locked deadlines, eliminating 90% of pricing revisions and doubling design production windows.'
+        - 'Revamped pricing strategy for a flagship product using AI predictive modeling to identify optimal price elasticity and value proposition, tripling sales.'
+      design_ux_focused:
+        - 'Collaborated with national partner on front-end web assets including custom brand pages and online promotions, directly contributing to a 3x increase in weekly sales units.'
+        - 'Established cohesive brand strategies for two product lines, resulting in a 40% increase in market share within 12 months through targeted marketing initiatives.'
+        - 'Established a repeatable A/B testing framework for campaign designs, converting learnings into standardized templates that delivered 28% conversion growth year-over-year.'
+        - 'Designed DSP campaigns leveraging first-party and geo-targeted data to deliver dynamic personalized designs, raising ROI 33% month-over-month.'
+      project_manager_focused:
+        - 'Directed a strategic brand partnership and national co-branded product launch; defined project scope and timeline, aligned creative and executive team goals, and executed go-to-market strategy, securing a top-5 sales position 3 months after launch.'
+        - 'Developed intake workflow to improve efficiency of Sales team promotional requests with defined routing and prioritization, increasing on-time collateral delivery ~30% one month after launch.'
+        - 'Optimized and owned the go-to-market production calendar between Buying, Marketing, and Retail Ops by backwards-mapping tasks against locked deadlines, eliminating 90% of pricing revisions and doubling design production windows.'
+        - 'Produced comprehensive playbook, launch communications, and KPI tracking dashboards for loyalty program restructuring, increasing membership ~30% quarter-over-quarter.'
+        - 'Coordinated across Design and Sales teams to align workflows, define success metrics, and lead enablement for 75 stakeholders, increasing production velocity 27%.'
+
+  - company: 'SPARC'
+    position: 'Lead Product Manager'
+    location: 'Bay Area, CA'
+    duration: 'March 2019 - April 2024'
+    company_description: 'Vertically integrated cannabis operator spanning technology, consumer brands, and multi-channel retail sales.'
+    linkedin: null
+    achievements:
+      ecommerce_platform_focused:
+        - 'Led cross-functional delivery of 0→1 e-commerce platform; designed UI and data-flow improvements that normalized fragmented data across 150+ brands, increasing conversions ~50% YoY.'
+        - 'Led delivery of a new e-commerce platform normalizing inventory, sales, and CRM data across multiple API endpoints, improving data accuracy ~70% to 99.5%.'
+        - 'Collaborated cross-functionally with Engineering to implement error logging, dashboards, and customer-impact triage during COVID-driven demand spikes, maintaining uptime during a 430% traffic surge.'
+        - 'Redesigned checkout flows using targeted UX experiments and session analysis to evaluate behavioral friction, cutting cart abandonment 28% quarter-over-quarter.'
+        - 'Established structured feedback loops with support teams and customer groups, prioritizing roadmap releases to address high-friction points, increasing retention ~25% year-over-year.'
+        - 'Overhauled support documentation for customers and support teams, reducing support ticket volume 27% within one month.'
+        - 'Managed bug resolution roadmap for critical e-commerce platform functionalities, contributing to a ~70% reduction in the first month post-launch.'
+        - 'Launched dashboards tracking e-commerce KPIs like cart abandonment, checkout conversion, and feature adoption, increasing online customer retention rates ~60% year-over-year.'
+        - 'Directed e-commerce product roadmap to prioritize customer experience improvements, lifting acquisition ~25% year-over-year.'
+        - 'Led competitive landscape analysis to uncover marketplace conversion and UX opportunities, driving initiatives that grew conversions ~50% year over year across 150+ brands.'
+        - 'Orchestrated risk mitigation during legacy e-commerce migration through daily standups, readiness checklists, and structured feedback loops, improving customer satisfaction scores ~20% three months post-launch.'
+        - 'Drove infrastructure resilience during COVID store shutdowns; implemented structured logging, real-time dashboards, and customer-impact triage, reducing API errors 92% after a 430% traffic surge.'
+        - 'Rebuilt account activation flows for compliance-sensitive onboarding (ID verification, identity management, document capture), improving record-linkage accuracy and cutting onboarding time ~30%.'
+      fintech_payments_focused:
+        - 'Launched a scalable 0→1 fintech payments platform, cutting fees 20% and positioning for acquisition.'
+        - 'Led delivery of a scalable B2B fintech payments platform, aligning Marketing, Engineering, and Executive teams on go-to-market, testing, and commercialization strategy, boosting adoption 37% within 6 months.'
+        - 'Led cross-functional Finance and Engineering partnership to deliver a 0-to-1 POS/Accounting data integration platform, eliminating reconciliation errors and cutting operational costs ~30%.'
+        - 'Led payments platform go-to-market strategy; aligned Finance, Compliance, and banking partners to overcome regulatory barriers, cutting transaction costs 33% and boosting adoption 37% in 6 months.'
+        - 'Oversaw API data integrations linking CRM, financial, sales, and inventory data; standardized inputs across systems to ensure compliance, improve reliability, and scale platform capacity.'
+        - 'Partnered with Engineering to rapidly replace SMS with email notifications using a compliant API-driven framework after unexpected regulatory changes, ensuring reliable delivery of 5K+ daily order updates.'
+        - 'Led delivery of a scalable API-driven payments platform utilizing e-commerce, financial, and POS data, raising platform adoption 33% quarter-over-quarter and cutting fees 20%.'
+        - 'Rebuilt account activation flows for compliance-sensitive onboarding (ID verification, identity management, document capture), improving record-linkage accuracy and cutting onboarding time ~30%.'
+      growth_marketing_focused:
+        - 'Conducted support team and customer feedback loops to identify and prioritize problems like mobile usability and checkout friction, lifting new feature adoption rate ~25% year-over-year.'
+        - 'Resolved onboarding drop-off driven by edge cases (expired docs, API timeouts, data mismatches) by redesigning flow logic and acceptance criteria, cutting time-to-completion 37% while maintaining ~90% approval rate.'
+        - 'Established structured feedback loops with support teams and customer groups, prioritizing roadmap releases to increase retention ~25% year-over-year.'
+        - 'Built dashboards integrating CMS and sales data to flag discrepancies and enable actionable insights, reducing customer support tickets 37% quarter-over-quarter.'
+        - 'Defined and monitored delivery KPIs across hundreds of backlog items to guide prioritization decisions, consistently improving release velocity and reducing time to resolution.'
+        - 'Launched beta rollouts for staff testers and customer groups, incorporating real-time feedback loops to iterate product features.'
+        - 'Led competitive landscape analysis to uncover scalable marketplace conversion and UX opportunities, driving initiatives that grew conversions ~50% year over year.'
+        - 'Drove alignment of globally dispersed teams via stand-ups, sprint planning, and roadmap management, ensuring buy-in and on-time delivery for dozens of projects.'
+      design_ux_focused:
+        - 'Designed e-commerce checkout flow prototypes and performed user testing, reducing cart abandonment 18% within one month of release.'
+        - 'Redesigned checkout flows using targeted UX experiments and session analysis to evaluate behavioral friction, cutting cart abandonment 28% quarter-over-quarter.'
+        - 'Optimized mobile user journey to surface location-aware promotions and fulfillment methods, raising logged-in shopping frequency ~10% quarter-over-quarter.'
+        - 'Collaborated with Engineering to optimize mobile e-commerce performance using session analysis tools to inform UI and back-end refinements, decreasing site load times 33%.'
+        - 'Directed e-commerce product roadmap to prioritize mobile-first usability and checkout journey optimizations, lifting acquisition ~25% year-over-year.'
+        - 'Oversaw QA test plans across internal and customer-facing groups; triaged session analytics and bug reports into clear requirements, improving platform reliability and performance.'
+      project_manager_focused:
+        - 'Led delivery of a scalable B2B fintech payments platform, aligning Marketing, Engineering, and Executive teams on go-to-market, testing, and commercialization strategy, boosting adoption 37% within 6 months and positioning for acquisition.'
+        - 'Owned all customer-facing and internal launch documentation (training, SOPs, knowledge bases, and help centers), sustaining adoption and reducing support load.'
+        - 'Defined and monitored delivery KPIs across hundreds of backlog items to guide prioritization decisions, consistently improving release velocity and reducing time to resolution.'
+        - 'Drove alignment of globally dispersed teams via stand-ups, sprint planning, and roadmap management, ensuring buy-in and on-time delivery for dozens of projects.'
+        - 'Collaborated cross-functionally with Engineering to implement error logging, dashboards, and customer-impact triage during COVID-driven demand spikes, maintaining uptime during a 430% traffic surge.'
+        - 'Established structured feedback loops with support teams and customer groups, prioritizing roadmap releases to address high-friction points, increasing retention ~25% year-over-year.'
+
+  - company: 'SPARC'
+    position: 'Director of Technology and Design'
+    location: 'Bay Area, CA'
+    duration: 'June 2010 - March 2019'
+    company_description: "As SPARC's founding employee, led technology and design initiatives across new and existing verticals."
+    linkedin: null
+    achievements:
+      ecommerce_platform_focused:
+        - 'Led cross-functional launch of four retail stores—including an AIA award-winning flagship—integrating POS and CMS platforms to unify merchandising, advertising, and technology operations.'
+        - 'Built tech stack for IT, marketing, sales, and finance; enabled integrations, established data governance, and user roles across 60+ platforms while supporting 2.3x headcount growth over 18 months.'
+        - 'Established user roles and data governance protocols across 60+ platforms, enhancing operational efficiency and facilitating a 2.3x headcount increase over 18 months.'
+        - 'Coordinated cross-functional launch for 4 retail expansions, managing vendor contracts, procurement schedules, and budget tracking.'
+        - 'Partnered with executive leadership to set strategic retail vision and scaling strategy, successfully launching 4 locations under a unified operations model.'
+        - 'Coordinated alignment across globally dispersed stakeholders via stand-ups, sprint planning, prioritization, and roadmap management, ensuring on-time delivery for dozens of projects.'
+      fintech_payments_focused:
+        - 'Implemented identity and access management systems (SAML, Active Directory, Group Policy) to secure customer and enterprise data while enabling scalable operations.'
+        - 'Built tech stack for IT, marketing, sales, and finance; enabled integrations, established data governance and user roles across 60+ platforms.'
+        - 'Established user roles and data governance protocols across 60+ platforms, enhancing operational efficiency and mitigating risk at scale.'
+      growth_marketing_focused:
+        - 'Managed external creative partners and negotiated SOWs, timelines, and budgets for brand identity projects, store design remodels, and high-volume photography, ensuring quality delivery and cost-effective execution.'
+        - 'Partnered with executive leadership to set strategic retail vision and scaling strategy, successfully launching 4 locations under a unified operations model.'
+        - 'Hired, coached, and mentored cross-functional teams (developers, IT, designers, customer support), fostering trust and motivation through transparent processes, regular feedback, and shared ownership.'
+        - 'Coordinated alignment across globally dispersed stakeholders via stand-ups, sprint planning, and roadmap management, ensuring buy-in and on-time delivery for dozens of projects.'
+      design_ux_focused:
+        - 'Led cross-functional launch of four retail stores—including an AIA award-winning flagship—integrating POS and CMS platforms to unify merchandising, advertising, and technology operations.'
+        - 'Hired, coached, and mentored cross-functional teams including designers and developers, fostering trust through transparent processes and regular feedback.'
+        - 'Managed external creative partners and negotiated SOWs for brand identity projects, store design remodels, and high-volume photography, ensuring quality delivery.'
+        - 'Built tech stack for IT, marketing, sales, and finance; enabled integrations, established data governance across 60+ platforms while supporting 2.3x headcount growth.'
+      project_manager_focused:
+        - 'Coordinated cross-functional launch for 4 retail expansions, managing vendor contracts, procurement schedules, and budget tracking.'
+        - 'Managed external creative partners and negotiated SOWs, timelines, and budgets for brand identity projects, store design remodels, and high-volume photography, ensuring quality delivery and cost-effective execution.'
+        - 'Hired, managed, and mentored cross-functional teams (developers, IT, designers, customer support), establishing scalable processes, feedback loops, and shared ownership.'
+        - 'Established user roles and data governance protocols across 60+ platforms, enhancing operational efficiency and facilitating a 2.3x headcount increase over 18 months.'
+
+  - company: 'Point Blank Inc. Design'
+    position: 'Principal'
+    location: 'San Francisco, CA'
+    duration: 'February 2004 - June 2010'
+    company_description: 'Solo design studio delivering digital and print solutions for hospitality, retail, and nonprofit clients. Managed client relationships, creative direction, and full business operations.'
+    linkedin: null
+    achievements:
+      ecommerce_platform_focused:
+        - 'Led a solo design studio delivering branding, digital, and print solutions for hospitality, retail, and nonprofit clients.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'
+      fintech_payments_focused:
+        - 'Led a solo design studio delivering digital and print solutions across retail and hospitality sectors.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'
+      growth_marketing_focused:
+        - 'Led a solo design studio delivering branding, digital, and print solutions for hospitality, retail, and nonprofit clients.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'
+      design_ux_focused:
+        - 'Led a solo design studio delivering branding, digital, and print solutions for hospitality, retail, and nonprofit clients.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'
+      project_manager_focused:
+        - 'Led a solo design studio delivering branding, digital, and print solutions for hospitality, retail, and nonprofit clients.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'

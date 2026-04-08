@@ -1,0 +1,147 @@
+resume:
+  name: 'Justin Morgan'
+  profile_picture: 'none'
+  title: 'Product Manager | Fintech & Payments'
+  summary: 'Product leader with 15+ years building fintech and payments platforms from 0→1—from pioneering ODFI bank partnerships to regulatory-compliant B2B/B2C payment ecosystems. Expert at aligning Engineering, Finance, and Compliance to ship adoptable, cost-reducing platforms that cut transaction fees, accelerate adoption, and position for acquisition.'
+
+  contact:
+    phone: '415-846-0055'
+    email: 'justin@pointblank.design'
+    address: 'San Francisco, CA'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  technical_expertise:
+    - resume_title: 'Product Management'
+      skills:
+        - 'Product Discovery'
+        - 'Roadmap Development'
+        - 'End-to-End Lifecycle Management'
+        - 'Agile Methodology'
+        - 'Go-to-Market Execution'
+        - 'OKR & KPI Development'
+        - 'B2B/B2C/B2B2C Models'
+        - 'Platform Scalability'
+    - resume_title: 'Payments & Compliance'
+      skills:
+        - 'ACH & NACHA Flows'
+        - 'PCI & SOC2 Compliance'
+        - 'Payment Integrations'
+        - 'Gateways & Processor Architecture'
+        - 'Regulatory Change Management'
+        - 'Data Governance'
+        - 'Audit Readiness'
+        - 'Settlements & Ledgering'
+    - resume_title: 'Technical Knowledge'
+      skills:
+        - 'API Integration & Development'
+        - 'RESTful API Development'
+        - 'Digital Payment Platforms'
+        - 'Data Normalization & Transformation'
+        - 'Schema Design'
+        - 'Cloud Storage (BigQuery/Snowflake)'
+        - 'Identity & Access Management (SAML, Active Directory)'
+        - 'E-Commerce Platforms'
+    - resume_title: 'Data & Analytics'
+      skills:
+        - 'A/B & Multivariate Testing'
+        - 'Funnel Analytics'
+        - 'KPI Development & Tracking'
+        - 'Data-Driven Decision Making'
+        - 'SQL'
+        - 'Dashboarding'
+        - 'Product Metrics Analysis'
+        - 'Experimental Design'
+
+  skills:
+    - 'Stakeholder Alignment'
+    - 'Executive Communication'
+    - 'Cross-Departmental Communication'
+    - 'Strategic Planning'
+    - 'Decision Frameworks'
+    - 'Process Optimization'
+    - 'External Partner & Vendor Management'
+    - 'Training & Adoption'
+    - 'Financial Forecasting & Planning'
+    - 'Competitive Analysis'
+    - 'Contract Negotiation'
+    - 'Process Documentation'
+
+  languages: []
+
+  professional_experience:
+    - company: 'SPARC'
+      position: 'Director of Creative Marketing'
+      location: 'Bay Area, CA'
+      duration: 'April 2024 - March 2025'
+      achievements:
+        - 'Led delivery of a scalable payments platform that synthesized data between e-commerce, financial institutions, and POS systems, reducing transaction fees 20% and raising platform adoption 33% within 6 months.'
+        - 'Spearheaded partnership with a leading national brand for their inaugural product launch, balancing creative vision with data-driven pricing strategies to secure a top-5 sales position within 3 months.'
+        - 'Revamped pricing strategy for a flagship product using AI predictive modeling to identify optimal price elasticity and value proposition, tripling sales.'
+        - 'Drove retail loyalty program restructuring and go-to-market strategy; analyzed sales, demographic, and engagement data, driving a ~30% adoption lift quarter-over-quarter.'
+
+    - company: 'SPARC'
+      position: 'Lead Product Manager'
+      location: 'Bay Area, CA'
+      duration: 'March 2019 - April 2024'
+      achievements:
+        - 'Launched a scalable 0→1 fintech payments platform, cutting fees 20% and positioning for acquisition.'
+        - 'Led delivery of a scalable B2B fintech payments platform, aligning Marketing, Engineering, and Executive teams on go-to-market, testing, and commercialization strategy, boosting adoption 37% within 6 months.'
+        - 'Led cross-functional Finance and Engineering partnership to deliver a 0-to-1 POS/Accounting data integration platform, eliminating reconciliation errors and cutting operational costs ~30%.'
+        - 'Oversaw API data integrations linking CRM, financial, sales, and inventory data; standardized inputs across systems to ensure compliance, improve reliability, and scale platform capacity.'
+
+    - company: 'SPARC'
+      position: 'Director of Technology and Design'
+      location: 'Bay Area, CA'
+      duration: 'June 2010 - March 2019'
+      achievements:
+        - 'Implemented identity and access management systems (SAML, Active Directory, Group Policy) to secure customer and enterprise data while enabling scalable operations.'
+        - 'Built tech stack for IT, marketing, sales, and finance; enabled integrations, established data governance and user roles across 60+ platforms.'
+        - 'Established user roles and data governance protocols across 60+ platforms, enhancing operational efficiency and mitigating risk at scale.'
+
+    - company: 'Point Blank Inc. Design'
+      position: 'Principal'
+      location: 'San Francisco, CA'
+      duration: 'February 2004 - June 2010'
+      achievements:
+        - 'Led a solo design studio delivering digital and print solutions across retail and hospitality sectors.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'
+
+  independent_projects:
+    - name: 'SPARC Pay'
+      location: 'SPARC'
+      duration: 'September 2020 - December 2021'
+      description: 'Defined vision, secured stakeholder buy-in for a dual-track (B2B/B2C) payments strategy, and led full delivery of a new payments ecosystem with a pioneering ODFI bank partnership.'
+      achievements:
+        - 'Pioneering ODFI bank partnership enabling compliant multi-channel checkout flows (e-commerce, in-store, SMS).'
+        - 'API client library covering Charges, Orders, Payments, Sessions, and Webhooks for custom integrations.'
+        - 'Reconciliation logic and reporting dashboards achieving 100% regulatory compliance and audit readiness.'
+      impact: '+37% platform adoption in 6 months | <5 second checkout | -30% transaction costs | 100% compliant'
+
+    - name: 'Fully Booked Platform'
+      location: 'SPARC'
+      duration: 'May 2019 - June 2020'
+      description: 'Bridged Finance and Engineering to deliver a B2B POS→Accounting data integration platform with complex multi-entity reconciliation logic.'
+      achievements:
+        - 'Multi-entity scalability with QuickBooks class tracking and complex data logic flows for 5 accounting import categories.'
+        - 'Comprehensive validation logging enabling reliable troubleshooting and compliance verification.'
+      impact: 'Eliminated manual entry errors | -30% bookkeeping labor costs'
+
+    - name: 'SPARC E-Commerce Platform'
+      location: 'SPARC'
+      duration: 'January 2018 - March 2023'
+      description: 'Led end-to-end development of an industry-first e-commerce operations platform for a vertically integrated operator spanning 150+ in-house and partner brands.'
+      achievements:
+        - 'CMS, POS & CRM integrations for centralized multi-platform management across 150+ brands.'
+        - 'Mobile-responsive design with dynamic fulfillment flows via geolocation.'
+        - 'Maintained zero downtime during a 430% COVID traffic surge through resilient infrastructure and real-time dashboards.'
+      impact: '+50% YoY conversions | +28% organic traffic lift | 150+ brands | 430% traffic surge with 0 downtime'
+
+  education:
+    - institution: 'UC Irvine College of Extended Learning'
+      program: 'Applied Project Management Certificate'
+      location: 'Irvine, CA'
+      duration: 'January 2016'
+    - institution: 'San Francisco State University'
+      program: 'Multimedia Studies Certificate — Digital Graphics Production'
+      location: 'San Francisco, CA'
+      duration: 'January 2002 - January 2004'

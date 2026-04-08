@@ -1,0 +1,151 @@
+version: '2.0.0'
+analysis_date: '2026-03-27'
+source: 'https://job-boards.greenhouse.io/greenthumbindustries/jobs/7761306'
+
+job_analysis:
+  company: 'Green Thumb Industries'
+  position: 'Product Manager, Digital Experience'
+  job_focus:
+    - primary_area: 'senior_engineer'
+      specialties: ['frontend', 'backend', 'data']
+      weight: 0.5
+    - primary_area: 'tech_lead'
+      specialties: ['architecture', 'data']
+      weight: 0.3
+    - primary_area: 'engineer'
+      specialties: ['frontend', 'data']
+      weight: 0.2
+  location: 'Chicago, Illinois (Remote, Central Time required)'
+  employment_type: 'Full-time'
+  experience_level: 'Senior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Product Lifecycle Management'
+        priority: 10
+      - skill: 'eCommerce Platform Experience'
+        priority: 10
+      - skill: 'Cross-Functional Team Leadership'
+        priority: 9
+      - skill: 'Product Roadmap Development'
+        priority: 9
+      - skill: 'Data Analysis & UX Metrics'
+        priority: 8
+      - skill: 'Product Requirements & Specs'
+        priority: 8
+      - skill: 'Agile / Scrum Methodology'
+        priority: 7
+      - skill: 'Stakeholder Communication'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Salesforce Commerce'
+        priority: 7
+      - skill: 'Shopify'
+        priority: 6
+      - skill: 'Figma'
+        priority: 6
+      - skill: 'Mixpanel'
+        priority: 6
+      - skill: 'Tableau'
+        priority: 5
+      - skill: 'Jira / Confluence'
+        priority: 5
+      - skill: 'Cannabis Industry Experience'
+        priority: 8
+    soft_skills:
+      - 'Strategic thinking'
+      - 'Stakeholder influence'
+      - 'Cross-departmental communication'
+      - 'Data-driven decision making'
+      - 'Collaborative leadership'
+    experience_years: 6
+    education: "Bachelor's degree (any field) with eCommerce or consumer-facing industry experience"
+
+  responsibilities:
+    primary:
+      - 'Maintain and execute a holistic digital product roadmap across web, mobile, and kiosk channels'
+      - 'Lead cross-functional collaboration with Engineering, UX, Marketing, and Merchandising teams'
+      - 'Create detailed product specifications and documentation driving development'
+      - 'Monitor performance metrics and identify data-driven improvements to customer experience'
+      - 'Demonstrate measurable revenue growth and CX improvements through eCommerce initiatives'
+    secondary:
+      - 'Ensure compliance with industry regulations and company policies'
+      - 'Manage full product lifecycle from ideation through post-launch optimization'
+      - 'Establish structured feedback loops with stakeholders and customer groups'
+
+  role_context:
+    department: 'Digital Product'
+    team_size: 'Multi-channel digital platform (web, mobile, kiosk) serving cannabis retail customers nationally'
+    key_points:
+      - 'Operates in the regulated cannabis industry with compliance requirements'
+      - 'Multi-channel digital experience spanning web, mobile app, and in-store kiosk'
+      - 'Remote role requiring Central Time hours alignment'
+      - 'Compensation range $125K-$145K with discretionary annual incentive'
+      - 'Must be 21+, pass background check, and have U.S. work authorization'
+
+  candidate_alignment:
+    strong_matches:
+      - '15+ years product management with eCommerce platform ownership at SPARC'
+      - 'Direct cannabis industry experience (SPARC is vertically integrated cannabis operator)'
+      - 'Full product lifecycle management from 0-to-1 through post-launch optimization'
+      - 'Cross-functional leadership with Engineering, UX, Marketing, and Finance teams'
+      - 'Roadmap development and prioritization across 150+ brands'
+      - 'Data tools match: Mixpanel, Tableau, Figma already in skill set'
+      - 'Agile/Scrum methodology and structured sprint/standups experience'
+      - 'Demonstrated revenue growth (50% YoY conversions, 28% organic traffic)'
+      - 'Multi-channel digital experience: web, mobile, POS/kiosk integrations'
+    gaps_to_address:
+      - 'No explicit Salesforce Commerce or Shopify platform experience listed'
+      - 'Title is Director/Lead PM but posting targets a PM-level role (seniority alignment)'
+    transferable_skills:
+      - 'SPARC e-commerce platform → directly maps to GTI multi-channel digital product'
+      - 'Cannabis industry knowledge → immediate regulatory/compliance credibility'
+      - 'POS/CRM/CMS integrations → maps to kiosk and in-store digital experience'
+      - 'Loyalty program redesign with 30% adoption lift → maps to CX improvement mandate'
+    emphasis_strategy: 'Lead with cannabis industry + eCommerce PM experience; mirror GTI digital channel language'
+
+  section_priorities:
+    technical_expertise:
+      - 'product_management'
+      - 'data_analytics'
+      - 'user_experience'
+      - 'marketing_growth'
+    experience_focus: 'Highlight SPARC ecommerce platform ownership, roadmap leadership, and measurable CX/revenue outcomes'
+    project_relevance: 'Include: SPARC E-Commerce Platform, loyalty program redesign, multi-channel digital work. Skip: Fintech payments deep-dive, infrastructure/compliance-only work'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'eCommerce platform product management'
+      - 'Cannabis industry expertise'
+      - 'Cross-functional roadmap leadership'
+    EMPHASIZE:
+      - 'multi_channel_digital_experience'
+      - 'data_driven_ux_improvements'
+      - 'stakeholder_alignment'
+      - 'agile_delivery'
+    QUANTIFY:
+      - 'conversion_rate_growth'
+      - 'cart_abandonment_reduction'
+      - 'loyalty_adoption_lift'
+      - 'platform_uptime_resilience'
+    DOWNPLAY:
+      - 'fintech_payments_infrastructure'
+      - 'compliance_regulatory_depth'
+      - 'backend_api_architecture'
+
+  ats_analysis:
+    title_variations:
+      - 'Product Manager, Digital Experience'
+      - 'Senior Product Manager, eCommerce'
+      - 'Digital Product Manager'
+    critical_phrases:
+      - 'digital product roadmap'
+      - 'cross-functional team leadership'
+      - 'eCommerce customer experience'
+      - 'data-driven product improvements'
+      - 'web, mobile, and kiosk channels'
+
+  application_info:
+    posting_url: 'https://job-boards.greenhouse.io/greenthumbindustries/jobs/7761306'
+    posting_date: '2026-03-27'
+    deadline: 'Not specified'

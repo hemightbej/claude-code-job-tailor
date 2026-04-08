@@ -44,4 +44,4 @@ export const TailorThemeSchema = z.object({
 
 export const ThemeRegistrySchema = z.record(z.string(), TailorThemeSchema);
 
-export const TemplateThemeEnum = z.enum(['modern', 'classic']).default('modern');
+export const TemplateThemeEnum = z.enum(['modern', 'classic', 'classic-justin']).default('modern');

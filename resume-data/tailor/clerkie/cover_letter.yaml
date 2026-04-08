@@ -1,0 +1,27 @@
+version: '2.0.0'
+analysis_date: '2026-03-16'
+
+cover_letter:
+  name: 'Justin Morgan'
+  company: 'Clerkie'
+  position: 'Product Manager'
+  primary_focus: 'senior_engineer'
+  date: 'March 16, 2026'
+
+  personal_info:
+    address: 'San Francisco, CA'
+    email: 'justin@pointblank.design'
+    phone: '415-846-0055'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  content:
+    letter_title: 'Cover Letter — Product Manager, Fintech & Payments'
+    opening_line: 'Dear Clerkie Hiring Team,'
+    body:
+      - "I am writing to apply for the Product Manager position at Clerkie. With 15+ years building fintech and payments platforms—from pioneering a compliant ODFI bank partnership to shipping a fully regulated B2B/B2C payments ecosystem—I am drawn to Clerkie's mission of democratizing financial wellness for underserved Americans and the opportunity to drive meaningful product impact in the debt resolution space."
+      - "As Lead Product Manager at SPARC, I led the 0→1 delivery of SPARC Pay: a dual-track payments platform that cut transaction fees 30%, achieved sub-5-second checkout, and grew adoption 37% within six months. This required deep fluency in API data flows, regulatory compliance (ACH/NACHA, PCI), and tight cross-functional alignment with Engineering, Finance, and external banking partners—exactly the kind of complex, enterprise-partner-facing product work Clerkie describes. I also delivered a B2B POS-to-Accounting data integration platform that eliminated reconciliation errors and reduced operational costs 30%, demonstrating my ability to translate complex financial workflows into scalable, reliable software."
+      - "What excites me about Clerkie is the intersection of consumer financial guidance and B2B creditor software. My experience navigating regulated environments, building systems that handle sensitive financial data at scale, and working directly with institutional partners maps directly to your roadmap. I thrive in early-stage, build-mode environments and am comfortable operating with the ownership and independence that a remote-first, 40-person startup demands."
+      - "Thank you for considering my application. I would welcome the opportunity to discuss how my background in fintech platform delivery and enterprise partner collaboration can contribute to Clerkie's next phase of growth."
+    signature: |
+      Sincerely,
+      Justin Morgan

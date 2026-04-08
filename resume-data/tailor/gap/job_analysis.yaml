@@ -1,0 +1,134 @@
+version: '2.0.0'
+analysis_date: '2026-03-11'
+source: 'Gap Inc. careers page - Product Manager I - Payments'
+
+job_analysis:
+  company: 'Gap Inc.'
+  position: 'Product Manager I - Payments'
+  job_focus:
+    - primary_area: 'engineer'
+      specialties: ['backend', 'architecture', 'payments', 'api']
+      weight: 0.65
+    - primary_area: 'tech_lead'
+      specialties: ['stakeholder_management', 'strategy', 'analytics']
+      weight: 0.35
+  location: 'Two Folsom, San Francisco, CA 94105, USA'
+  employment_type: 'Full-time'
+  experience_level: 'Mid-level'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Payments Platform Product Management'
+        priority: 10
+      - skill: 'API & Platform Design'
+        priority: 9
+      - skill: 'Backlog Management & Requirements Writing'
+        priority: 8
+      - skill: 'Cross-functional Stakeholder Engagement'
+        priority: 8
+      - skill: 'Technical Acumen for Engineering Collaboration'
+        priority: 7
+      - skill: 'Product Roadmap Development'
+        priority: 7
+      - skill: 'Analytical Problem Solving'
+        priority: 6
+    nice_to_have_skills:
+      - skill: 'E-Commerce Platform Experience'
+        priority: 7
+      - skill: 'Process Improvement & Industry Research'
+        priority: 5
+      - skill: 'Data Analysis & Measurement'
+        priority: 5
+      - skill: 'Compliance & Regulatory Knowledge'
+        priority: 4
+    soft_skills:
+      - 'Cross-functional collaboration'
+      - 'Stakeholder communication'
+      - 'Analytical thinking'
+      - 'Strategic planning'
+      - 'Relationship building'
+    experience_years: 3
+    education: "Bachelor's degree preferred"
+
+  responsibilities:
+    primary:
+      - 'Define product roadmaps and shape customer experience for payments capabilities'
+      - 'Write requirements, manage backlogs, and oversee engineering team delivery and testing'
+      - 'Build relationships with business partners and articulate product needs across functional teams'
+      - 'Develop project plans and stakeholder engagement strategies'
+      - 'Validate product strategy through measurement, analysis, and strategic evaluation'
+    secondary:
+      - 'Research industry trends and propose process improvements'
+      - 'Collaborate with product counterparts to understand capabilities and scope customer experience'
+
+  role_context:
+    department: 'Product Management - Payments'
+    team_size: 'Gap Inc. serves millions of customers across Gap, Old Navy, Banana Republic, and Athleta'
+    key_points:
+      - 'Custom software supporting Gap Inc. iconic brands across multi-channel retail'
+      - 'Partner with business leaders and engineers to develop payment capabilities'
+      - 'Shape customer experience through cross-functional product collaboration'
+      - 'Large software engineering teams across multiple domains'
+      - '$117K-$153K compensation range in San Francisco'
+
+  candidate_alignment:
+    strong_matches:
+      - '15+ years of payments and fintech product leadership including ODFI bank partnerships'
+      - 'Proven 0→1 payments platform delivery cutting fees 20-30% and boosting adoption 37%'
+      - 'Deep API integration experience across e-commerce, POS, and financial systems'
+      - 'Cross-functional alignment across Engineering, Finance, Compliance, and Marketing'
+      - 'Backlog management, requirements writing, and delivery oversight at scale'
+      - 'Regulatory compliance expertise (PCI, SOC2, NACHA, CCPA, HIPAA)'
+    gaps_to_address:
+      - 'Retail/apparel industry payments context vs. cannabis-specific experience'
+      - 'Large enterprise (Fortune 500 scale) multi-brand product coordination'
+    transferable_skills:
+      - 'Multi-brand payment platform → Gap Inc. multi-brand (Gap, Old Navy, Banana Republic, Athleta)'
+      - 'SPARC Pay ODFI bank partnership → traditional payments gateway/processor integration'
+      - 'Cannabis regulatory complexity → retail payments compliance and PCI standards'
+      - 'B2B/B2C dual-track payments → retail B2C checkout experience optimization'
+    emphasis_strategy: 'Lead with payments platform delivery metrics and API/compliance expertise; position multi-brand experience as direct parallel to Gap Inc. portfolio'
+
+  section_priorities:
+    technical_expertise:
+      - 'payments_compliance'
+      - 'product_management'
+      - 'technical_knowledge'
+      - 'data_analytics'
+    experience_focus: 'Highlight SPARC Pay 0→1 delivery, fee reduction metrics, adoption growth, and cross-functional alignment with Finance and Engineering'
+    project_relevance: 'Include: SPARC Pay (payments platform), Fully Booked (finance integration). Downplay: Pure marketing/creative projects'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'Payments platform product leadership'
+      - 'API integration and compliance expertise'
+    EMPHASIZE:
+      - 'Fee reduction and adoption growth metrics'
+      - 'Cross-functional alignment across Engineering and Finance'
+      - 'Regulatory compliance (PCI, NACHA, SOC2)'
+    QUANTIFY:
+      - '20-30% transaction fee reduction'
+      - '37% adoption growth in 6 months'
+      - '100% regulatory compliance'
+      - '<5 second checkout'
+    DOWNPLAY:
+      - 'Creative/design direction work'
+      - 'Marketing campaign management'
+      - 'Cannabis industry branding'
+
+  ats_analysis:
+    title_variations:
+      - 'Product Manager - Payments'
+      - 'Fintech Product Manager'
+      - 'Payments Platform PM'
+    critical_phrases:
+      - 'platform and API design'
+      - 'backlog management and requirements'
+      - 'stakeholder engagement'
+      - 'product roadmap'
+      - 'payments ecosystem'
+
+  application_info:
+    posting_url: 'https://www.gapinc.com/en-us/jobs/w83/49/product-manager-i-payments'
+    posting_date: '2026-03-11'
+    deadline: 'Not specified'

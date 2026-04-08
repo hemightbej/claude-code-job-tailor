@@ -1,0 +1,34 @@
+version: '2.0.0'
+job_focus:
+  - primary_area: 'senior_engineer'
+    specialties: ['frontend', 'backend', 'data']
+    weight: 0.5
+  - primary_area: 'tech_lead'
+    specialties: ['architecture', 'data']
+    weight: 0.3
+  - primary_area: 'engineer'
+    specialties: ['frontend', 'data']
+    weight: 0.2
+analysis_date: '2026-03-27'
+
+cover_letter:
+  name: 'Justin Morgan'
+  company: 'Green Thumb Industries'
+  position: 'Product Manager, Digital Experience'
+  primary_focus: 'senior_engineer'
+  date: 'March 28, 2026'
+
+  personal_info:
+    address: 'San Francisco, CA'
+    email: 'justin@pointblank.design'
+    phone: '415-846-0055'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  content:
+    letter_title: 'Cover Letter — Product Manager, Digital Experience'
+    opening_line: 'Dear Green Thumb Industries Hiring Team,'
+    body:
+      - "I am writing to express my strong interest in the Product Manager, Digital Experience role at Green Thumb Industries. With 15+ years owning end-to-end product development for e-commerce and multi-channel digital platforms—including direct experience in the cannabis industry—I bring exactly the blend of roadmap leadership, cross-functional execution, and data-driven CX optimization your team is looking for."
+      - "At SPARC, a vertically integrated cannabis operator, I led the full-lifecycle delivery of a 0→1 e-commerce platform that normalized data across 150+ brands, grew conversions ~50% year-over-year, and maintained zero downtime during a 430% COVID traffic surge. I drove this work by building structured feedback loops with customers and cross-functional partners—continuously iterating on checkout flows, mobile usability, and retention KPIs—ultimately increasing online customer retention ~60% year-over-year. I also led a loyalty program redesign that boosted adoption ~30% quarter-over-quarter, and collaborated with Engineering on UX experiments that cut cart abandonment 28% and raised add-to-cart rates 61%."
+      - "GTI's mission to serve cannabis retail customers across web, mobile, and in-store kiosk channels maps directly to the multi-channel platform work I have spent my career building. I am confident my ability to align Engineering, UX, Marketing, and Merchandising stakeholders around a clear digital product roadmap—while maintaining compliance in a regulated industry—would make an immediate and measurable impact on your team. I would welcome the opportunity to discuss how my background aligns with GTI's digital experience goals."
+    signature: "Sincerely,\nJustin Morgan"

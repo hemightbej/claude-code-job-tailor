@@ -1,0 +1,34 @@
+version: '2.0.0'
+analysis_date: '2026-03-11'
+
+job_focus:
+  - primary_area: 'engineer'
+    specialties: ['backend', 'architecture', 'payments', 'api']
+    weight: 0.65
+  - primary_area: 'tech_lead'
+    specialties: ['stakeholder_management', 'strategy', 'analytics']
+    weight: 0.35
+
+cover_letter:
+  name: 'Justin Morgan'
+  company: 'Gap Inc.'
+  position: 'Product Manager I - Payments'
+  primary_focus: 'engineer'
+  date: 'March 11, 2026'
+
+  personal_info:
+    address: 'San Francisco, CA'
+    email: 'justin@pointblank.design'
+    phone: '415-846-0055'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  content:
+    letter_title: 'Cover Letter — Product Manager, Fintech & Payments'
+    opening_line: 'Dear Gap Inc. Hiring Team,'
+    body:
+      - "I am writing to apply for the Product Manager I - Payments position at Gap Inc. With a deep background in fintech product development—from building a pioneering ODFI bank partnership to shipping a fully compliant B2B/B2C payments ecosystem—I am excited by the opportunity to bring that experience to your payments team."
+      - "As Lead Product Manager at SPARC, I led the 0→1 delivery of SPARC Pay: a dual-track payments platform that cut transaction fees 30%, achieved <5-second customer checkout, and grew adoption 37% within six months. I coordinated across Engineering, Finance, Compliance, and Marketing to navigate complex regulatory requirements, integrate reconciliation logic, and orchestrate a phased go-to-market. I also oversaw API integrations linking CRM, financial, sales, and inventory data—standardizing inputs across systems to ensure compliance, improve reliability, and scale platform capacity."
+      - "I am particularly excited about Gap Inc.'s work in delivering seamless payment experiences across your iconic brands—Gap, Old Navy, Banana Republic, and Athleta. Managing a multi-brand payments platform is a challenge I know well: at SPARC, I coordinated payments and data infrastructure across 150+ brands with diverse fulfillment and compliance requirements. I would welcome the chance to discuss how my experience building compliant, adoption-driving payments products aligns with your roadmap."
+    signature: |
+      Sincerely,
+      Justin Morgan

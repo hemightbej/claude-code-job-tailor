@@ -1,0 +1,154 @@
+resume:
+  name: 'Justin Morgan'
+  profile_picture: 'none'
+  title: 'Lead Product Manager | E-Commerce & Platform'
+  summary: 'Seasoned Product leader with 15+ years driving e-commerce platform development, API integrations, and multi-brand marketplace operations. Proven track record growing conversions ~50% YoY, normalizing data accuracy to 99.5%, and maintaining zero downtime through 430% traffic surges—turning complex technical challenges into scalable, revenue-generating solutions.'
+  contact:
+    phone: '415-846-0055'
+    email: 'justin@pointblank.design'
+    address: 'San Francisco, CA'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  technical_expertise:
+    - resume_title: 'Product Management'
+      skills:
+        - 'Roadmap Development'
+        - 'End-to-End Lifecycle Management'
+        - 'Agile Methodology'
+        - 'Product Requirements Documentation'
+        - 'Go-to-Market Execution'
+        - 'OKR & KPI Development'
+        - 'Product Discovery'
+        - 'Two-Sided Marketplace Operations'
+
+    - resume_title: 'Data Analytics'
+      skills:
+        - 'Funnel Analytics'
+        - 'A/B & Multivariate Testing'
+        - 'Mixpanel'
+        - 'Tableau'
+        - 'KPI Development & Tracking'
+        - 'Data-Driven Decision Making'
+        - 'Google Analytics'
+        - 'Dashboarding'
+
+    - resume_title: 'User Experience'
+      skills:
+        - 'Multi-Channel Experience'
+        - 'Customer Journey Mapping & User Flows'
+        - 'Mobile Responsive Design'
+        - 'UX Optimization'
+        - 'User Feedback Loops'
+        - 'Wireframes & Mockups'
+        - 'Figma'
+        - 'Personalization'
+
+    - resume_title: 'Marketing & Growth'
+      skills:
+        - 'Conversion Optimization'
+        - 'Loyalty Program Design'
+        - 'Cart Abandonment Reduction'
+        - 'Go-To-Market Strategy'
+        - 'Funnel Growth Strategies'
+        - 'Retention Strategies'
+        - 'AOV & Revenue Uplift'
+        - 'Audience Targeting & Segmentation'
+
+  skills:
+    - 'Stakeholder Alignment'
+    - 'Cross-Departmental Communication'
+    - 'Strategic Planning'
+    - 'Executive Communication'
+    - 'Data-Driven Decision Making'
+    - 'Process Optimization'
+    - 'Collaborative Leadership'
+    - 'Coaching & Mentoring'
+    - 'Competitive Analysis'
+    - 'External Partner & Vendor Management'
+    - 'Training & Adoption'
+    - 'Decision Frameworks'
+
+  languages: []
+
+  professional_experience:
+    - company: 'SPARC'
+      position: 'Director of Creative Marketing'
+      location: 'Bay Area, CA'
+      duration: 'April 2024 - March 2025'
+      company_description: 'Vertically integrated cannabis operator spanning technology, consumer brands, and multi-channel retail sales.'
+      achievements:
+        - 'Drove loyalty rewards program redesign via sales and behavioral data analysis, simplifying the reward structure and signup process, boosting adoption ~30% quarter-over-quarter.'
+        - 'Enhanced user engagement by collaborating with Engineering on advanced UTM filters, increasing add-to-cart rates 61% in 2 months.'
+        - 'Led delivery of a scalable payments platform synthesizing data between e-commerce, financial institutions, and POS systems, reducing transaction fees 20% and raising platform adoption 33% within 6 months.'
+        - 'Established cohesive brand strategies for two product lines, resulting in a 40% increase in market share within 12 months through targeted marketing initiatives.'
+
+    - company: 'SPARC'
+      position: 'Lead Product Manager'
+      location: 'Bay Area, CA'
+      duration: 'March 2019 - April 2024'
+      company_description: 'Vertically integrated cannabis operator spanning technology, consumer brands, and multi-channel retail sales.'
+      achievements:
+        - 'Led cross-functional delivery of 0→1 e-commerce platform; designed UI and data-flow improvements that normalized fragmented data across 150+ brands, increasing conversions ~50% YoY.'
+        - 'Redesigned checkout flows using targeted UX experiments and session analysis to evaluate behavioral friction, cutting cart abandonment 28% quarter-over-quarter.'
+        - 'Established structured feedback loops with support teams and customer groups, prioritizing roadmap releases to address high-friction points, increasing retention ~25% year-over-year.'
+        - 'Directed e-commerce product roadmap to prioritize customer experience improvements, lifting acquisition ~25% year-over-year.'
+
+    - company: 'SPARC'
+      position: 'Director of Technology and Design'
+      location: 'Bay Area, CA'
+      duration: 'June 2010 - March 2019'
+      company_description: "As SPARC's founding employee, led technology and design initiatives across new and existing verticals."
+      achievements:
+        - 'Led cross-functional launch of four retail stores—including an AIA award-winning flagship—integrating POS and CMS platforms to unify merchandising, advertising, and technology operations.'
+        - 'Built tech stack for IT, marketing, sales, and finance; enabled integrations, established data governance, and user roles across 60+ platforms while supporting 2.3x headcount growth over 18 months.'
+        - 'Coordinated alignment across globally dispersed stakeholders via stand-ups, sprint planning, prioritization, and roadmap management, ensuring on-time delivery for dozens of projects.'
+        - 'Partnered with executive leadership to set strategic retail vision and scaling strategy, successfully launching 4 locations under a unified operations model.'
+
+    - company: 'Point Blank Inc. Design'
+      position: 'Principal'
+      location: 'San Francisco, CA'
+      duration: 'February 2004 - June 2010'
+      company_description: 'Solo design studio delivering digital and print solutions for hospitality, retail, and nonprofit clients. Managed client relationships, creative direction, and full business operations.'
+      achievements:
+        - 'Led a solo design studio delivering branding, digital, and print solutions for hospitality, retail, and nonprofit clients.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'
+
+  independent_projects:
+    - name: 'SPARC E-Commerce Platform'
+      location: 'SPARC'
+      duration: 'January 2018 - March 2023'
+      description: 'Led end-to-end development of an industry-first e-commerce operations platform for a vertically integrated cannabis operator spanning 150+ in-house and partner brands.'
+      achievements:
+        - 'CMS, POS & CRM integrations for centralized multi-platform management across 150+ brands.'
+        - 'Mobile-responsive design with dynamic fulfillment flows via geolocation.'
+        - 'Maintained zero downtime during a 430% COVID traffic surge through resilient infrastructure and real-time dashboards.'
+      impact: '+50% YoY conversions | +28% organic traffic lift | 150+ brands | 430% traffic surge with 0 downtime'
+
+    - name: 'SPARC Pay'
+      location: 'SPARC'
+      duration: 'September 2020 - December 2021'
+      description: 'Defined vision, secured stakeholder buy-in for a dual-track (B2B/B2C) payments strategy, and led full delivery of a new payments ecosystem with a pioneering ODFI bank partnership.'
+      achievements:
+        - 'Pioneering ODFI bank partnership enabling compliant multi-channel checkout flows (e-commerce, in-store, SMS).'
+        - 'API client library covering Charges, Orders, Payments, Sessions, and Webhooks for custom integrations.'
+        - 'Reconciliation logic and reporting dashboards achieving 100% regulatory compliance and audit readiness.'
+      impact: '+37% platform adoption in 6 months | <5 second checkout | -30% transaction costs | 100% compliant'
+
+    - name: 'Fully Booked Platform'
+      location: 'SPARC'
+      duration: 'May 2019 - June 2020'
+      description: 'Bridged Finance and Engineering to deliver a B2B POS→Accounting data integration platform with complex multi-entity reconciliation logic.'
+      achievements:
+        - 'Multi-entity scalability with QuickBooks class tracking and complex data logic flows for 5 accounting import categories.'
+        - 'Comprehensive validation logging enabling reliable troubleshooting and compliance verification.'
+      impact: 'Eliminated manual entry errors | -30% bookkeeping labor costs'
+
+  education:
+    - institution: 'UC Irvine College of Extended Learning'
+      program: 'Applied Project Management Certificate'
+      location: 'Irvine, CA'
+      duration: 'January 2016'
+    - institution: 'San Francisco State University'
+      program: 'Multimedia Studies Certificate — Digital Graphics Production'
+      location: 'San Francisco, CA'
+      duration: 'January 2002 - January 2004'

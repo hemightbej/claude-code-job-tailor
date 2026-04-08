@@ -1,0 +1,139 @@
+version: '2.0.0'
+analysis_date: '2026-03-08'
+source: 'https://www.uber.com/global/it/careers/list/153915/'
+
+job_analysis:
+  company: 'Uber'
+  position: 'Product Manager, Catalog Quality'
+  job_focus:
+    - primary_area: 'senior_engineer'
+      specialties: ['data', 'architecture', 'backend']
+      weight: 0.55
+    - primary_area: 'tech_lead'
+      specialties: ['architecture', 'backend', 'data']
+      weight: 0.30
+    - primary_area: 'engineer'
+      specialties: ['data', 'backend']
+      weight: 0.15
+  location: 'New York, NY or San Francisco, CA'
+  employment_type: 'Full-time'
+  experience_level: 'Senior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Product Management'
+        priority: 10
+      - skill: 'Data-Driven Decision Making'
+        priority: 10
+      - skill: 'Platform & Systems Thinking'
+        priority: 9
+      - skill: 'Cross-Functional Collaboration'
+        priority: 9
+      - skill: 'Data Quality & Normalization'
+        priority: 8
+      - skill: 'Ambiguity Resolution & Framework Building'
+        priority: 8
+      - skill: 'Technical Reasoning'
+        priority: 7
+      - skill: 'Operational Process Design'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Marketplace or Commerce Ecosystem Experience'
+        priority: 8
+      - skill: 'Platform Architecture Tradeoffs'
+        priority: 7
+      - skill: 'Catalog or Taxonomy Systems'
+        priority: 7
+      - skill: 'Data Engineering or Pipeline Familiarity'
+        priority: 6
+      - skill: 'Automation & Human-in-the-Loop Systems'
+        priority: 6
+    soft_skills:
+      - 'Systems-level thinking'
+      - 'Clear communication across technical and non-technical audiences'
+      - 'Operational rigor'
+      - 'Stakeholder alignment'
+      - 'Analytical mindset'
+    experience_years: 3
+    education: 'Not specified'
+
+  responsibilities:
+    primary:
+      - 'Own strategy and technical foundation for how products are classified, structured, and related'
+      - 'Develop and execute catalog organization strategy across categories and markets'
+      - 'Create frameworks for product structure reflecting actual shopping behavior'
+      - 'Collaborate with engineering and data science on scalable catalog systems'
+      - 'Leverage data insights to identify catalog inconsistencies and prioritize improvements'
+    secondary:
+      - 'Build operational processes balancing automation with human judgment'
+      - 'Ensure cross-functional teams have predictable, well-governed catalog foundations'
+      - 'Drive principle-based problem-solving for ambiguous catalog challenges'
+
+  role_context:
+    department: 'Product Management'
+    team_size: 'Global platform serving millions of users across Uber Eats and Uber marketplaces'
+    key_points:
+      - 'Catalog quality directly impacts discovery, conversion, and trust at massive scale'
+      - 'Role bridges data science, engineering, and business stakeholders'
+      - 'Opportunity to build foundational systems affecting multiple product teams globally'
+      - 'High ambiguity environment requiring strong principles and structured decision-making'
+      - 'Commerce and marketplace domain with emphasis on data integrity and platform scalability'
+
+  candidate_alignment:
+    strong_matches:
+      - '15+ years PM experience with e-commerce platforms and marketplace operations'
+      - 'Led data normalization initiative achieving 99.5% accuracy across 150+ brands'
+      - 'Deep cross-functional alignment experience with Engineering, Finance, and Operations'
+      - 'Maintained zero downtime during 430% traffic surge through platform resilience'
+      - 'Two-sided marketplace experience with B2B/B2C/B2B2C models'
+      - 'Strong data-driven decision making with funnel analytics and A/B testing'
+    gaps_to_address:
+      - 'No explicit catalog taxonomy or classification systems experience'
+      - 'Cannabis industry context may require framing for consumer tech audience'
+    transferable_skills:
+      - 'Data normalization across 150+ brands maps directly to catalog quality systems'
+      - 'Multi-brand marketplace operations translates to catalog classification at scale'
+      - 'API integration and schema design experience is relevant to catalog data architecture'
+    emphasis_strategy: 'Lead with data platform and marketplace operations expertise; frame data normalization work as catalog quality analog'
+
+  section_priorities:
+    technical_expertise:
+      - 'product_management'
+      - 'data_analytics'
+      - 'technical_knowledge'
+      - 'user_experience'
+    experience_focus: 'Highlight data normalization, platform scalability, and cross-functional delivery achievements with quantified impact'
+    project_relevance: 'Include SPARC E-Commerce Platform and Fully Booked Platform; skip SPARC Pay (payments focus less relevant)'
+
+  optimization_actions:
+    LEAD_WITH:
+      - 'E-commerce platform data quality and normalization'
+      - 'Multi-brand marketplace catalog operations'
+    EMPHASIZE:
+      - 'Data-driven decision making and funnel analytics'
+      - 'Systems-level thinking and platform architecture'
+      - 'Cross-functional collaboration with engineering and data teams'
+    QUANTIFY:
+      - 'Data accuracy improvement (99.5%)'
+      - 'Platform adoption and conversion growth metrics'
+      - 'Operational cost reductions'
+    DOWNPLAY:
+      - 'Payments and fintech-specific work'
+      - 'Creative operations and marketing execution'
+
+  ats_analysis:
+    title_variations:
+      - 'Product Manager, Catalog Quality'
+      - 'Senior Product Manager, Data Platform'
+      - 'Lead Product Manager, E-Commerce'
+    critical_phrases:
+      - 'catalog quality'
+      - 'data normalization'
+      - 'platform scalability'
+      - 'cross-functional collaboration'
+      - 'data-driven decision making'
+
+  application_info:
+    posting_url: 'https://www.uber.com/global/it/careers/list/153915/'
+    posting_date: '2026-03-08'
+    deadline: 'Not specified'

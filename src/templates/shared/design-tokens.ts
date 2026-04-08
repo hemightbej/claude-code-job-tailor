@@ -115,10 +115,60 @@ const sharedTokens = {
   },
 };
 
+// Classic-Justin theme design tokens (personal variant of classic)
+const classicJustinTokens = {
+  colors: {
+    // Warm gold accent on monochrome base
+    primary: tailwindColors.zinc[900],
+    accent: '#B58D47',
+
+    // Semantic colors
+    darkGray: tailwindColors.zinc[800],
+    mediumGray: tailwindColors.zinc[600],
+    separatorGray: tailwindColors.zinc[400],
+
+    // Full tailwind palette access
+    ...tailwindColors,
+  },
+  typography: {
+    text: {
+      size: 10,
+      fontFamily: 'Rethink Sans',
+      lineHeight: 1,
+    },
+    title: {
+      fontSize: 11,
+      fontFamily: 'Rethink Sans Bold',
+      textTransform: 'uppercase' as const,
+      marginBottom: 4,
+      lineHeight: 1.2,
+    },
+    subtitle: {
+      fontSize: 10,
+      fontFamily: 'Rethink Sans Bold',
+      textTransform: 'none' as const,
+      marginBottom: 2,
+      lineHeight: 1.2,
+    },
+    small: {
+      fontSize: 9,
+      lineHeight: 1.4,
+    },
+  },
+  spacing: {
+    columnWidth: 0,
+    documentPadding: 42,
+    pagePadding: 8,
+    profileImageSize: 48,
+    listItemSpacing: 3,
+  },
+};
+
 // Namespace export pattern
 export const tokens = {
   modern: modernTokens,
   classic: classicTokens,
+  classicJustin: classicJustinTokens,
   shared: sharedTokens,
 } as const;
 

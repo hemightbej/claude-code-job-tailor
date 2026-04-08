@@ -1,0 +1,28 @@
+version: '2.0.0'
+analysis_date: '2026-03-08'
+
+cover_letter:
+  name: 'Justin Morgan'
+  company: 'Uber'
+  position: 'Product Manager, Catalog Quality'
+  primary_focus: 'senior_engineer'
+  date: 'March 8, 2026'
+
+  personal_info:
+    address: 'San Francisco, CA'
+    email: 'justin@pointblank.design'
+    phone: '415-846-0055'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  content:
+    letter_title: 'Cover Letter — Product Manager, Catalog Quality'
+    opening_line: 'Dear Uber Hiring Team,'
+    body:
+      - "I am writing to express my strong interest in the Product Manager, Catalog Quality role at Uber. With 15+ years owning end-to-end product development for e-commerce and multi-brand marketplace platforms, I have a proven track record of turning complex, fragmented data challenges into structured, scalable foundations—exactly the kind of work this role demands."
+      - "At SPARC, I led the full-lifecycle delivery of a 0→1 e-commerce platform that normalized fragmented data across 150+ brands, improving data accuracy from ~70% to 99.5%, and growing conversions ~50% year-over-year. I drove this work by building structured feedback loops, collaborating closely with Engineering on API integrations and schema design, and establishing data governance protocols across 60+ platforms—all while maintaining zero downtime through a 430% COVID traffic surge. This experience is a direct analog to catalog quality work: systematic classification, data integrity at scale, and cross-functional alignment around a shared data foundation."
+      - "I am particularly drawn to Uber's approach to catalog strategy because the challenges of classifying and structuring products across a global, multi-market platform are exactly the kind of ambiguous, high-leverage problems I thrive on. I have experience creating frameworks for marketplace operations, leveraging funnel analytics and behavioral data to prioritize improvements, and building operational processes that balance automation with human judgment—skills I would bring directly to shaping how Uber's catalog serves riders, eaters, and partners at scale."
+      - "Beyond technical rigor, I operate as a connector—aligning Engineering, Data Science, Operations, and business stakeholders around clear principles and measurable outcomes. I am fluent in the tradeoffs between speed and accuracy, automation and oversight, and local market needs versus global consistency. I would welcome the chance to discuss how my platform and marketplace experience translates to driving catalog quality at Uber."
+      - "Thank you for considering my application. I am excited about the opportunity to contribute to Uber's mission and look forward to connecting."
+    signature: |
+      Sincerely,
+      Justin Morgan

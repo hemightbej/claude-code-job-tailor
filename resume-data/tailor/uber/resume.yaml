@@ -1,0 +1,138 @@
+resume:
+  name: 'Justin Morgan'
+  profile_picture: 'https://placehold.co/200x200'
+  title: 'Lead Product Manager | E-Commerce & Platform'
+  summary: 'Seasoned Product leader with 15+ years driving e-commerce platform development, API integrations, and multi-brand marketplace operations. Proven track record growing conversions ~50% YoY, normalizing data accuracy to 99.5%, and maintaining zero downtime through 430% traffic surges—turning complex technical challenges into scalable, revenue-generating solutions.'
+
+  contact:
+    phone: '415-846-0055'
+    email: 'justin@pointblank.design'
+    address: 'San Francisco, CA'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  technical_expertise:
+    - resume_title: 'Product Management'
+      skills:
+        - 'Roadmap Development'
+        - 'OKR & KPI Development'
+        - 'Agile Methodology'
+        - 'End-to-End Lifecycle Management'
+        - 'Platform Scalability'
+        - 'Two-Sided Marketplace Operations'
+        - 'Product Discovery'
+        - 'Go-to-Market Execution'
+    - resume_title: 'Data & Analytics'
+      skills:
+        - 'Data-Driven Decision Making'
+        - 'A/B & Multivariate Testing'
+        - 'Funnel Analytics'
+        - 'KPI Development & Tracking'
+        - 'SQL'
+        - 'Dashboarding'
+        - 'Experimental Design'
+        - 'Product Metrics Analysis'
+    - resume_title: 'Technical Knowledge'
+      skills:
+        - 'API Integration & Development'
+        - 'Data Normalization & Transformation'
+        - 'E-Commerce Platforms'
+        - 'Schema Design'
+        - 'Cloud Storage (BigQuery/Snowflake)'
+        - 'RESTful API Development'
+        - 'POS Systems'
+        - 'CMS Software'
+    - resume_title: 'User Experience & Operations'
+      skills:
+        - 'Customer Journey Mapping & User Flows'
+        - 'UX Optimization'
+        - 'User Research & Personas'
+        - 'User Feedback Loops'
+        - 'Process Optimization'
+        - 'Process Documentation'
+        - 'Multi-Channel Experience'
+        - 'Risk Management'
+
+  skills:
+    - 'Stakeholder Alignment'
+    - 'Executive Communication'
+    - 'Cross-Departmental Communication'
+    - 'Strategic Planning'
+    - 'Decision Frameworks'
+    - 'Process Optimization'
+    - 'Competitive Analysis'
+    - 'Coaching & Mentoring'
+    - 'External Partner & Vendor Management'
+    - 'Training & Adoption'
+    - 'Financial Forecasting & Planning'
+    - 'Market Fit & GTM Strategy'
+
+  languages: []
+
+  professional_experience:
+    - company: 'SPARC'
+      position: 'Director of Creative Marketing'
+      location: 'Bay Area, CA'
+      duration: 'April 2024 - March 2025'
+      achievements:
+        - 'Coordinated across Design and Sales teams to align workflows, define success metrics, and lead enablement for 75 stakeholders, increasing production velocity 27%.'
+        - 'Drove loyalty rewards program redesign via sales and behavioral data analysis, simplifying the reward structure and signup process, boosting adoption ~30% quarter-over-quarter.'
+        - 'Enhanced user engagement by collaborating with Engineering on advanced UTM filters, increasing add-to-cart rates 61% in 2 months.'
+        - 'Established cohesive brand strategies for two product lines, resulting in a 40% increase in market share within 12 months through targeted marketing initiatives.'
+
+    - company: 'SPARC'
+      position: 'Lead Product Manager'
+      location: 'Bay Area, CA'
+      duration: 'March 2019 - April 2024'
+      achievements:
+        - 'Drove infrastructure resilience during COVID store shutdowns; implemented structured logging, real-time dashboards, and customer-impact triage, reducing API errors 92% after a 430% traffic surge.'
+        - 'Led delivery of a new e-commerce platform normalizing inventory, sales, and CRM data across multiple API endpoints, improving data accuracy ~70% to 99.5%.'
+        - 'Collaborated cross-functionally with Engineering to implement error logging, dashboards, and customer-impact triage during COVID-driven demand spikes, maintaining uptime during a 430% traffic surge.'
+        - 'Launched dashboards tracking e-commerce KPIs like cart abandonment, checkout conversion, and feature adoption, increasing online customer retention rates ~60% year-over-year.'
+
+    - company: 'SPARC'
+      position: 'Director of Technology and Design'
+      location: 'Bay Area, CA'
+      duration: 'June 2010 - March 2019'
+      achievements:
+        - 'Built tech stack for IT, marketing, sales, and finance; enabled integrations, established data governance, and user roles across 60+ platforms while supporting 2.3x headcount growth over 18 months.'
+        - 'Established user roles and data governance protocols across 60+ platforms, enhancing operational efficiency and facilitating a 2.3x headcount increase over 18 months.'
+        - 'Led cross-functional launch of four retail stores—including an AIA award-winning flagship—integrating POS and CMS platforms to unify merchandising, advertising, and technology operations.'
+        - 'Coordinated alignment across globally dispersed stakeholders via stand-ups, sprint planning, prioritization, and roadmap management, ensuring on-time delivery for dozens of projects.'
+
+    - company: 'Point Blank Inc. Design'
+      position: 'Principal'
+      location: 'San Francisco, CA'
+      duration: 'February 2004 - June 2010'
+      achievements:
+        - 'Led a solo design studio delivering branding, digital, and print solutions for hospitality, retail, and nonprofit clients.'
+        - 'Managed all business operations including client acquisition, project planning, and financial management.'
+
+  independent_projects:
+    - name: 'SPARC E-Commerce Platform'
+      location: 'SPARC'
+      duration: 'January 2018 - March 2023'
+      description: 'Led end-to-end development of an industry-first e-commerce operations platform for a vertically integrated operator spanning 150+ in-house and partner brands.'
+      achievements:
+        - 'CMS, POS & CRM integrations for centralized multi-platform management across 150+ brands.'
+        - 'Mobile-responsive design with dynamic fulfillment flows via geolocation.'
+        - 'Maintained zero downtime during a 430% COVID traffic surge through resilient infrastructure and real-time dashboards.'
+      impact: '+50% YoY conversions | +28% organic traffic lift | 150+ brands | 430% traffic surge with 0 downtime'
+
+    - name: 'Fully Booked Platform'
+      location: 'SPARC'
+      duration: 'May 2019 - June 2020'
+      description: 'Bridged Finance and Engineering to deliver a B2B POS-to-Accounting data integration platform with complex multi-entity reconciliation logic.'
+      achievements:
+        - 'Multi-entity scalability with QuickBooks class tracking and complex data logic flows for 5 accounting import categories.'
+        - 'Comprehensive validation logging enabling reliable troubleshooting and compliance verification.'
+      impact: 'Eliminated manual entry errors | -30% bookkeeping labor costs'
+
+  education:
+    - institution: 'UC Irvine College of Extended Learning'
+      program: 'Applied Project Management Certificate'
+      location: 'Irvine, CA'
+      duration: 'January 2016'
+    - institution: 'San Francisco State University'
+      program: 'Multimedia Studies Certificate — Digital Graphics Production'
+      location: 'San Francisco, CA'
+      duration: 'January 2002 - January 2004'

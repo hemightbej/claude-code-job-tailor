@@ -1,0 +1,23 @@
+cover_letter:
+  name: 'Justin Morgan'
+  company: 'Jane Technologies'
+  position: 'Senior Product Manager, Platform and SDK'
+  primary_focus: 'api_platform'
+  date: 'March 5, 2026'
+
+  personal_info:
+    phone: '415-846-0055'
+    email: 'justin@pointblank.design'
+    address: 'San Francisco, CA'
+    linkedin: 'https://linkedin.com/in/justinmorgan-in'
+
+  content:
+    letter_title: 'Cover Letter — Senior Product Manager, Platform and SDK'
+    opening_line: 'Dear Jane Technologies Hiring Team,'
+    body:
+      - "I am writing to express my strong interest in the Senior Product Manager, Platform and SDK role at Jane Technologies. As a cannabis industry veteran and API-platform product leader with 15+ years at SPARC—a vertically integrated cannabis operator—I bring rare depth at exactly the intersection this role demands: technical platform ownership, regulated industry expertise, and a proven track record scaling headless eCommerce and API ecosystems across 150+ brands."
+      - "The work most directly relevant to your SDK mandate is SPARC Pay. As Lead Product Manager, I led the full 0→1 delivery of a dual-track (B2B/B2C) payments ecosystem anchored by an API client library covering Charges, Orders, Payments, Sessions, and Webhooks—giving external developers and internal teams a consistent, well-documented interface for custom integrations. That experience maps directly to the SDK ownership, developer ecosystem adoption, and partner integration responsibilities in your job description. I also owned SPARC's headless eCommerce API architecture: normalizing inventory, sales, and CRM data across 150+ brands via multiple API endpoints, improving data accuracy to 99.5% and maintaining zero downtime through a 430% COVID traffic surge—exactly the kind of multi-tenant, high-volume API design challenge at the core of Jane's Digital Merchandising SDK."
+      - "I'm genuinely excited by what Jane has built: a platform that connects consumers, dispensaries, and brands across a regulated, high-stakes market. That is the environment I have operated in for 15 years. I understand the compliance constraints, the partner ecosystem dynamics, and the stakes of keeping a commerce platform operational at scale. I would love to bring that combination of technical product rigor and cannabis industry fluency to your Platform team."
+    signature: |
+      Sincerely,
+      Justin Morgan

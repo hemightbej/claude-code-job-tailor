@@ -1,0 +1,122 @@
+version: '2.0.0'
+analysis_date: '2026-03-24'
+source: 'LinkedIn job posting - Sniffies (Job ID: 4389017693)'
+
+job_analysis:
+  company: 'Sniffies'
+  position: 'Senior Shopify & Web Developer'
+  job_focus:
+    - primary_area: 'senior_engineer'
+      specialties: ['frontend', 'backend', 'typescript']
+      weight: 0.6
+    - primary_area: 'engineer'
+      specialties: ['frontend', 'backend']
+      weight: 0.4
+  location: 'United States (Remote)'
+  employment_type: 'Contract'
+  experience_level: 'Mid-Senior'
+
+  requirements:
+    must_have_skills:
+      - skill: 'Shopify Development (custom themes, Liquid, APIs)'
+        priority: 10
+      - skill: 'Front-End Development (HTML, CSS, JavaScript)'
+        priority: 9
+      - skill: 'AngularJS / Angular'
+        priority: 8
+      - skill: 'Node.js'
+        priority: 8
+      - skill: 'E-Commerce Platform Expertise'
+        priority: 8
+      - skill: 'SEO Optimization'
+        priority: 7
+      - skill: 'CMS / Content-Driven Platforms'
+        priority: 7
+      - skill: 'Analytics & Attribution Systems'
+        priority: 6
+    nice_to_have_skills:
+      - skill: 'Modern Angular Framework'
+        priority: 7
+      - skill: 'Shopify-to-Custom-Application Integration'
+        priority: 7
+      - skill: 'Subscription Products / Gated Content'
+        priority: 6
+      - skill: 'PWA Development'
+        priority: 5
+      - skill: 'Performance Optimization'
+        priority: 5
+    soft_skills:
+      - 'Independent work and product ownership orientation'
+      - 'Cross-functional collaboration (marketing, creative, growth)'
+      - 'Comfort in fast-moving, ambiguous environments'
+      - 'Attention to platform constraints and reliability'
+    experience_years: 5
+    education: 'Not specified'
+
+  responsibilities:
+    primary:
+      - 'Oversee content and commerce platform infrastructure end-to-end'
+      - 'Customize Shopify themes, templates, and storefront experiences using Liquid'
+      - 'Build editorial-to-product pathways and integrations'
+      - 'Improve site performance, SEO structure, and technical efficiency'
+      - 'Implement tracking, analytics, and attribution systems'
+    secondary:
+      - 'Navigate platform constraints and maintain system reliability'
+      - 'Collaborate with marketing, creative, and growth teams'
+      - 'Operate independently with product ownership mentality'
+
+  role_context:
+    department: 'Commerce & Content Engineering'
+    team_size: 'Small contract engagement (~40 hrs/month)'
+    key_points:
+      - 'Contract role at approximately 40 hours per month'
+      - 'Location-based social platform targeting adult audience'
+      - 'End-to-end ownership of commerce and content platform'
+      - 'Cross-functional collaboration with marketing and growth'
+      - 'Fast-moving, ambiguous startup environment'
+
+  candidate_alignment:
+    strong_matches:
+      - 'Deep e-commerce platform expertise (0-to-1 build, 150+ brands, 430% traffic surges)'
+      - 'CMS integration and multi-platform management experience'
+      - 'SEO optimization and organic traffic growth (+28% lift documented)'
+      - 'Analytics implementation and data-driven decision making'
+      - 'Cross-functional collaboration with marketing and creative teams'
+    gaps_to_address:
+      - 'No direct Shopify/Liquid theme development hands-on coding experience'
+      - 'AngularJS and Node.js technical implementation (not just oversight)'
+      - 'Front-end coding skills (HTML/CSS/JS at developer execution level)'
+    transferable_skills:
+      - 'E-commerce platform architecture knowledge → Shopify storefront strategy'
+      - 'CMS/API integration experience → Shopify API and custom app integrations'
+      - 'SEO optimization expertise → Shopify SEO structure improvements'
+      - 'Analytics tooling familiarity → Shopify analytics and attribution setup'
+    emphasis_strategy: 'Position as commerce platform strategist who bridges technical and business needs; acknowledge Shopify learning curve while leading with proven e-commerce outcomes'
+
+  section_priorities:
+    technical_expertise: ['e-commerce platforms', 'cms_integrations', 'seo_optimization', 'analytics']
+    experience_focus: 'Highlight e-commerce platform delivery, CMS integration, and SEO/analytics results at SPARC'
+    project_relevance: 'Include: SPARC E-Commerce Platform, analytics and SEO work. Downplay: Fintech/payments, cannabis-specific details'
+
+  optimization_actions:
+    LEAD_WITH: ['E-Commerce Platform Expertise', 'CMS & Content Integration', 'SEO Optimization']
+    EMPHASIZE: ['commerce_platform_ownership', 'cross_functional_collaboration', 'analytics_implementation']
+    QUANTIFY: ['conversion_growth', 'seo_traffic_lift', 'platform_uptime', 'adoption_rates']
+    DOWNPLAY: ['fintech_payments', 'compliance_frameworks', 'legacy_unrelated_domains']
+
+  ats_analysis:
+    title_variations:
+      - 'Senior Shopify Developer'
+      - 'Senior Web Developer'
+      - 'Shopify & Web Developer'
+    critical_phrases:
+      - 'Shopify themes and Liquid'
+      - 'e-commerce platform'
+      - 'content-driven platform'
+      - 'SEO and site performance'
+      - 'analytics and attribution'
+
+  application_info:
+    posting_url: 'https://www.linkedin.com/jobs/search/?currentJobId=4389017693&f_C=34743598'
+    posting_date: '2026-03-23'
+    deadline: 'Not specified'

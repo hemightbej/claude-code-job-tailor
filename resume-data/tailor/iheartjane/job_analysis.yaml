@@ -1,0 +1,154 @@
+version: '2.0.0'
+analysis_date: '2026-03-05'
+source: 'https://jobs.lever.co/iheartjane/f31d1b45-7226-43a4-af51-b7647ee1248a'
+
+job_analysis:
+  # Core info
+  company: 'Jane Technologies'
+  position: 'Senior Product Manager, Platform and SDK'
+  job_focus:
+    - primary_area: 'senior_engineer'
+      specialties: ['backend', 'architecture', 'api']
+      weight: 0.6
+    - primary_area: 'tech_lead'
+      specialties: ['platform', 'sdk', 'developer_experience']
+      weight: 0.4
+  location: 'Remote (US/Canada)'
+  employment_type: 'Full-time'
+  experience_level: 'Senior'
+
+  # Prioritized requirements
+  requirements:
+    must_have_skills:
+      - skill: 'API Product Management'
+        priority: 10
+      - skill: 'SDK Development Ownership'
+        priority: 10
+      - skill: 'RESTful API Design'
+        priority: 9
+      - skill: 'Developer Platform Strategy'
+        priority: 9
+      - skill: 'Technical Documentation'
+        priority: 8
+      - skill: 'Data-Driven Product Development'
+        priority: 8
+      - skill: 'Headless eCommerce'
+        priority: 7
+      - skill: 'Cross-Functional Stakeholder Alignment'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Advertising Technology (AdTech)'
+        priority: 7
+      - skill: 'JavaScript / React'
+        priority: 6
+      - skill: 'Pixel-Based Event Tracking'
+        priority: 6
+      - skill: 'API Management Tools'
+        priority: 6
+      - skill: 'Authentication Protocols / Security'
+        priority: 5
+      - skill: 'Cannabis or Regulated Industry Experience'
+        priority: 5
+    soft_skills:
+      - 'Technical communication'
+      - 'Strategic roadmap ownership'
+      - 'Cross-functional collaboration'
+      - 'Developer empathy'
+      - 'Executive stakeholder management'
+    experience_years: 5
+    education: 'Not specified; equivalent experience accepted'
+
+  responsibilities:
+    primary:
+      - 'Own strategic vision and roadmap for the Digital Merchandising SDK and headless eCommerce API ecosystem'
+      - 'Drive partner adoption through documentation, demos, and integration resources'
+      - 'Design scalable API architectures supporting high-volume traffic for internal and external partners'
+      - 'Translate customer and partner requirements into technical specifications'
+      - 'Monitor performance metrics and identify optimization opportunities across the platform'
+    secondary:
+      - 'Advocate for developer experience and API usability improvements'
+      - 'Maintain current knowledge of API and SDK industry standards'
+      - 'Develop comprehensive technical documentation and integration guides'
+
+  # Merged context section
+  role_context:
+    department: 'Platform Product'
+    team_size: 'SDK and API-focused team within Platform Product vertical'
+    key_points:
+      - 'MIT-founded eCommerce company in high-growth cannabis industry'
+      - 'Platform connects consumers, dispensaries, and brands at scale'
+      - 'Role owns Digital Merchandising SDK and headless eCommerce API'
+      - 'External partner ecosystem driving adoption and integrations'
+      - 'Compensation: $159K-$195K annually plus equity'
+
+  # Candidate alignment analysis
+  candidate_alignment:
+    strong_matches:
+      - 'API integration and development across e-commerce, POS, and financial systems'
+      - 'End-to-end platform product ownership (SPARC E-Commerce, SPARC Pay)'
+      - 'Cross-functional stakeholder alignment with Engineering, Finance, Compliance'
+      - 'Data-driven roadmap prioritization with measurable KPIs'
+      - 'B2B/B2C/B2B2C platform experience at scale (150+ brands)'
+      - 'Regulated industry experience (cannabis, fintech/payments compliance)'
+      - 'Headless/API-driven commerce architecture familiarity'
+    gaps_to_address:
+      - 'Explicit SDK ownership and developer-facing product management'
+      - 'Advertising technology and pixel-based event tracking'
+      - 'Enterprise solutions engineering background'
+    transferable_skills:
+      - 'SPARC Pay API client library (Charges, Orders, Payments, Webhooks) → SDK ownership'
+      - 'POS/Accounting integration platform → headless API architecture'
+      - 'Data normalization across 150+ brands → scalable API design'
+      - 'Regulatory compliance frameworks → API security and authentication protocols'
+    emphasis_strategy: 'Lead with API/platform product ownership and cannabis industry depth; bridge SDK gap via payments API library experience'
+
+  # Section priorities for resume tailoring
+  section_priorities:
+    technical_expertise:
+      - 'api_integration'
+      - 'platform_scalability'
+      - 'ecommerce_platforms'
+      - 'data_analytics'
+      - 'payments_compliance'
+    experience_focus: 'Highlight SPARC Pay API client library, SPARC E-Commerce platform, and Fully Booked Platform as evidence of API/platform ownership and technical product management'
+    project_relevance: 'Include: SPARC Pay (API library), SPARC E-Commerce Platform, Fully Booked Platform. Emphasize API design, partner integration, and data architecture. Downplay pure marketing/brand work.'
+
+  # Optimization actions
+  optimization_actions:
+    LEAD_WITH:
+      - 'API and platform product ownership'
+      - 'Cannabis and regulated industry expertise'
+      - 'Headless eCommerce and multi-brand API architecture'
+    EMPHASIZE:
+      - 'developer_ecosystem'
+      - 'api_scalability'
+      - 'partner_integrations'
+      - 'data_driven_roadmaps'
+    QUANTIFY:
+      - 'api_adoption_rates'
+      - 'platform_uptime_resilience'
+      - 'transaction_volume_and_fee_reduction'
+      - 'partner_brand_count'
+    DOWNPLAY:
+      - 'pure_marketing_campaigns'
+      - 'design_and_brand_identity_work'
+      - 'offline_retail_operations'
+
+  # Simplified ATS analysis
+  ats_analysis:
+    title_variations:
+      - 'Senior Product Manager, Platform and SDK'
+      - 'Technical Product Manager, APIs and SDKs'
+      - 'Platform Product Manager'
+    critical_phrases:
+      - 'API product management'
+      - 'SDK and developer platform'
+      - 'headless eCommerce'
+      - 'RESTful API design'
+      - 'partner ecosystem adoption'
+
+  # Basic metadata
+  application_info:
+    posting_url: 'https://jobs.lever.co/iheartjane/f31d1b45-7226-43a4-af51-b7647ee1248a'
+    posting_date: '2026-03-05'
+    deadline: 'Not specified'
